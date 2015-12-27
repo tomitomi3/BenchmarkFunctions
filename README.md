@@ -1,7 +1,7 @@
 # BenchmarkFunctions
 アルゴリズム Advent Calendar 2015 9日目
 
-[http://qiita.com/advent-calendar/2015/algorithms](アルゴリズム Advent Calendar 2015)の9日目の資料になります。
+[アルゴリズム Advent Calendar 2015](http://qiita.com/advent-calendar/2015/algorithms)の9日目の資料になります。
 
 # ベンチマーク関数
 
